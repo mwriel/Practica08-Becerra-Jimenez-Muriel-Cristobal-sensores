@@ -37,6 +37,16 @@
                 android:layout_width="match_parent"
                 android:layout_height="70dp"
                 android:text="Sensor de proximidad" />
+            <Button
+                android:id="@+id/btnRotation"
+                android:layout_width="match_parent"
+                android:layout_height="70dp"
+                android:text="Sensor de rotacion" />
+            <Button
+                android:id="@+id/btnAcceleration"
+                android:layout_width="match_parent"
+                android:layout_height="70dp"
+                android:text="Sensor de aceleracion" />
 
             <TextView
                 android:id="@+id/textView"
